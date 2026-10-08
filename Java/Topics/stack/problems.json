@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack",
+    "tagId": "15"
+  },
+  "updatedAt": "2026-10-08T15:35:35.569Z",
+  "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "Java/0020-valid-parentheses/",
+      "readmePath": "Java/0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0020-valid-parentheses.java",
+          "path": "Java/0020-valid-parentheses/0020-valid-parentheses.java",
+          "sha": "03e99c6103e9640bd5a93b9a92e014f3e5952531",
+          "lastSyncedAt": "2026-10-08T15:35:35.569Z"
+        }
+      ]
+    }
+  ]
+}
