@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-10-08T15:36:04.888Z",
+  "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "Java/0035-search-insert-position/",
+      "readmePath": "Java/0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0035-search-insert-position.java",
+          "path": "Java/0035-search-insert-position/0035-search-insert-position.java",
+          "sha": "5e8bc5a66ce98696e5f9899a19e6732700ae78e4",
+          "lastSyncedAt": "2026-10-08T15:36:04.888Z"
+        }
+      ]
+    }
+  ]
+}
