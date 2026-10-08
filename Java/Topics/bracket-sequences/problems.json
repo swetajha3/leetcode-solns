@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-08T15:35:35.569Z",
+  "updatedAt": "2026-10-08T15:36:18.274Z",
   "problems": [
     {
       "frontendId": "20",
@@ -24,6 +24,26 @@
           "path": "Java/0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "03e99c6103e9640bd5a93b9a92e014f3e5952531",
           "lastSyncedAt": "2026-10-08T15:35:35.569Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "Java/0678-valid-parenthesis-string/",
+      "readmePath": "Java/0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0678-valid-parenthesis-string.java",
+          "path": "Java/0678-valid-parenthesis-string/0678-valid-parenthesis-string.java",
+          "sha": "c22c00d176afdfcb8dc63b3e0bebbde5a5863734",
+          "lastSyncedAt": "2026-10-08T15:36:18.274Z"
         }
       ]
     }
